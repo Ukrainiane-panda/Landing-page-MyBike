@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Description of the MyBike project
     - [DEMO LINK](https://ukrainiane-panda.github.io/Landing-page-MyBike/)
 
 For the development of the MyBike landing page, I utilized a comprehensive technology stack that incorporated various aspects:
