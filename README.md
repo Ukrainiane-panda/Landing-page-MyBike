@@ -1,5 +1,5 @@
-# Description of the MyBike project
-[DEMO LINK](https://ukrainiane-panda.github.io/Landing-page-MyBike)
+🚲 # Description of the MyBike project
+[DEMO LINK](https://ukrainiane-panda.github.io/Landing-page-MyBike) 🌟
 
 For the development of the MyBike landing page, I utilized a comprehensive technology stack that incorporated various aspects:
 
@@ -9,4 +9,4 @@ To bring the design to life and ensure a visually appealing and consistent appea
 
 In terms of functionality, I utilized JavaScript to handle changes in the URL hash fragment and process form submission events without requiring a page reload. By implementing event handlers for `hashchange` and `submit` events, I ensured a seamless and dynamic user experience.
 
-Throughout the development process, testing and debugging played a crucial role. I employed various techniques, including the use of Chrome DevTools. This powerful tool allowed me to inspect and manipulate page elements, analyze network requests, debug JavaScript code, and optimize performance. By conducting thorough testing and debugging, I identified and resolved any issues or bugs, ensuring a smooth and error-free user experience.
+Throughout the development process, testing and debugging played a crucial role. I employed various techniques, including the use of Chrome DevTools. This powerful tool allowed me to inspect and manipulate page elements, analyze network requests, debug JavaScript code, and optimize performance. By conducting thorough testing and debugging, I identified and resolved any issues or bugs, ensuring a smooth and error-free user experience. ✨
