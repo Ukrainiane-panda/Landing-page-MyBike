@@ -1,4 +1,4 @@
-# MyBike project 🚴‍♂️ 
+# The MyBike project 🚴‍♂️ 
 
 [DEMO LINK](https://ukrainiane-panda.github.io/Landing-page-MyBike) 🌟
 
