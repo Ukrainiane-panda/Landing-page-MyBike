@@ -1,8 +1,8 @@
-# The MyBike project 🚴‍♂️ 
+# The UrbanRide project 🚴‍♂️ 
 
 [DEMO LINK](https://ukrainiane-panda.github.io/Landing-page-MyBike) 🌟
 
-The MyBike landing page is designed for seamless movement both in the physical world and online. During development, I focused on these aspects:
+The UrbanRide landing page is designed for seamless movement both in the physical world and online. During development, I focused on these aspects:
 
 ### Clear Structure 🧩:
 - Established a solid structure and framework using HTML (HyperText Markup Language) with inspiration from the stylish design [Figma Design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1).
